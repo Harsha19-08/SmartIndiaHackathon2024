@@ -1,0 +1,1 @@
+export const BASE_URL = 'https://smartindiahackathon2024.onrender.com';
